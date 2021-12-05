@@ -1,0 +1,25 @@
+.mmt-card{
+	padding:18px;
+}
+.mmt-card-title{
+	font-size: 1.125rem;
+	line-height: 1.5rem;
+	font-weight:700;
+	color:#39364f;
+}
+.mmt-card-date{
+	color:red;
+	font-weight:600;
+	font-size: .875rem;
+	line-height: 1.25rem;
+}
+.mmt-card-loc-price{
+	color:#6f7287;
+	font-size: .875rem;
+}
+.mmt-card-orgz{
+	font-size: .875rem;
+	color:#39364f;
+	font-weight:600;
+	padding-top: 4px;
+}
